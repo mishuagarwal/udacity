@@ -1,10 +1,3 @@
-# Contents
-* Installation
-* Datasets
-* Project Description
-* Results
-* Blog
-
 # Installation
 
 The notebook requires Python 3 to be installed as well as the following libraries: 
@@ -14,7 +7,7 @@ The notebook requires Python 3 to be installed as well as the following librarie
 * sklearn
 * pandas
 
-The libraries can be installed through anaconda, a pre-packaged Python distribution that contains all of the necessary libraries and software for this project.
+The libraries can be installed through anaconda, a pre-packaged Python distribution.
 
 # Datasets
 There are three datasets that have been provided on [Kaggle](https://www.kaggle.com/airbnb/seattle): 
