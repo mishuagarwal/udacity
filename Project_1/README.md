@@ -36,7 +36,12 @@ Using the CRISM DM methodology, I will try to discuss the following questions:
 2. Neighbourhood trends in Seattle: Which neighbourhoods have the maximum listings? Which neighbourhoods are the most/least expensive? How does the availability in different neighbourhoods vary at different time periods in a year? 
 3. Can we construct a predictive model to predict the price of a listing based on the different attributes in the datasets? How good is the predictive model? What are some important features that are indicative of the price of the listing?  
 
+# Results
 The notebook "seattle_airbnb.ipynb" has all the relevant plots and analysis that answer the aforementioned questions.
+
+# Blog
+
+The link to the blog is here. 
 
 
 
