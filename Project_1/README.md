@@ -16,7 +16,7 @@ The notebook requires Python 3 to be installed as well as the following librarie
 The libraries can be installed through anaconda, a pre-packaged Python distribution that contains all of the necessary libraries and software for this project
 
 # Datasets
-There are three datasets that have been provided: 
+There are three datasets that have been provided on [Kaggle]: 
 * Listings: This dataset has all the airbnb listings in Seattle and the details corresponding to each listing. 
 * Reviews: This dataset has all the reviews listed for each listing. 
 * Calendar: This dataset has day wise occupancy and price for each listing for the year 2016. 
@@ -37,11 +37,11 @@ Using the CRISM DM methodology, I will try to discuss the following questions:
 3. Can we construct a predictive model to predict the price of a listing based on the different attributes in the datasets? How good is the predictive model? What are some important features that are indicative of the price of the listing?  
 
 # Results
-The notebook "seattle_airbnb.ipynb" has all the relevant plots and analysis that answer the aforementioned questions.
+The notebook "seattle_airbnb.ipynb" has all the relevant plots and analysis that answers the aforementioned questions.
 
 # Blog
 
-The link to the blog is here. 
-
-
+The link to the blog is [here]. 
+[Kaggle]: https://www.kaggle.com/airbnb/seattle
+[here]: https://medium.com/@agarwal.animesh11/analyzing-seattle-airbnb-datasets-21865ee0cb80
 
